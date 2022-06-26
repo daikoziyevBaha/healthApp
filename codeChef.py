@@ -74,3 +74,5 @@ def myset(orig, unique = None):
     return myset(orig, unique)
 
 print(myset([1,2,1,3,3,4,5,6,9]))
+
+#Eto proverka GItHuba
